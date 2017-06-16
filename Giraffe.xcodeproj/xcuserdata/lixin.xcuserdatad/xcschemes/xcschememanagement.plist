@@ -9,9 +9,54 @@
 			<key>orderHint</key>
 			<integer>0</integer>
 		</dict>
+		<key>GiraffeNotes.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>3</integer>
+		</dict>
+		<key>GiraffeToday.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>2</integer>
+		</dict>
+		<key>Widget.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
+		<key>widget.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
+		<key>82A1C0771BFCB6BF00CAF9B4</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>82DACF351BF895BB00D87D34</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>82DACF511BF8ACED00D87D34</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>82DACF6A1BF8B00800D87D34</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>82DACF811BF8B40900D87D34</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
 		<key>82DAF2A81BF562CA002D9B5B</key>
 		<dict>
 			<key>primary</key>
